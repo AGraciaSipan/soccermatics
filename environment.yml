@@ -1,0 +1,9 @@
+name: soccermatics
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter=1.0.0
+  - matplotlib=3.7.1
+  - mplsoccer=1.2.1
+  - python=3.10
