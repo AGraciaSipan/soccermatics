@@ -1,3 +1,4 @@
-Statsbomb
-Wyscout
-.idea
+Statsbomb/
+Wyscout/
+.idea/
+**/.ipynb_checkpoints/
