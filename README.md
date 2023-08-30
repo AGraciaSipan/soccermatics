@@ -1,11 +1,12 @@
 # Mathematical Modelling of Football
 This repository holds all the work I completed for the Mathematical Modelling of Football
 [course](https://www.uu.se/en/study/course?query=1RT001) at Uppsala University, which took place from September to 
-October 2023. The course, instructed by David Sumpter, is worth 5 master's credits and is conducted remotely.
+October 2023. The course, instructed by David Sumpter, is worth 5 master's credits and is conducted remotely. The course
+web page with all the lessons can be found [here](https://soccermatics.readthedocs.io/en/latest/index.html).
 
 
 ## Setup
-1. After cloning the repo, create the environment:
+1. After cloning the repo, create the environment and activate it:
     ```commandline
     conda env create -f environment.yml
     ```
